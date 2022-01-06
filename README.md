@@ -1,1 +1,1 @@
-# CS418_IntroductionToDataScience
+# CS418_IntroductionToDataScience/project2
